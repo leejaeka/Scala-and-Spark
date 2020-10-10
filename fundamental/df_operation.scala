@@ -18,3 +18,5 @@ val CH_low = df.filter("Close < 480 AND High < 480")
 //df.filter($"High"===484.40).show()  -> note == gives error here
 
 df.select(corr("High","Low")).show() //0.9992999127..
+
+
