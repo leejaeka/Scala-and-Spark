@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\fundamental",
+    "\\Machine Learning"
   ],
-  "SelectedNode": "\\missing.scala",
+  "SelectedNode": "\\Machine Learning\\linreg2.scala",
   "PreviewInSolutionExplorer": false
 }
