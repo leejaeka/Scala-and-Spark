@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Machine Learning"
+    "\\fundamental",
+    "\\Machine Learning",
+    "\\Machine Learning\\Classification"
   ],
-  "SelectedNode": "\\Machine Learning",
+  "SelectedNode": "\\Machine Learning\\Classification\\project.scala",
   "PreviewInSolutionExplorer": false
 }
