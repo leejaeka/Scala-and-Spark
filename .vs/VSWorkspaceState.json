@@ -3,8 +3,10 @@
     "",
     "\\fundamental",
     "\\Machine Learning",
-    "\\Machine Learning\\Classification"
+    "\\Machine Learning\\Classification",
+    "\\Machine Learning\\Clustering",
+    "\\Machine Learning\\Model Evaluation"
   ],
-  "SelectedNode": "\\Machine Learning\\Classification\\project.scala",
+  "SelectedNode": "\\Machine Learning\\Clustering\\KMeans_Project_Exercise.scala",
   "PreviewInSolutionExplorer": false
 }
